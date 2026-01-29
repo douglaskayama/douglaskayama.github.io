@@ -1,5 +1,5 @@
 ---
-title: "Douglas Drumond Kayama"
+title: "Douglas Kayama"
 
 description: "f: Coffee → (Writings, Software)"
 theme_version: '2.8.2'

@@ -1,6 +1,6 @@
-baseURL = "https://www.douglasdrumond.tech"
+baseURL = "https://www.douglaskayama.tech"
 disablePathToLower = "true"
-title = "Douglas Drumond Kayama"
+title = "Douglas Kayama"
 #theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 theme = "ananke"
 
@@ -33,17 +33,17 @@ rel = "me"
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/douglasdrumond"
+url = "https://twitter.com/douglaskayama"
 
 [[params.ananke_socials]]
 name = "github"
-url = "https://github.com/douglasdrumond"
+url = "https://github.com/douglaskayama"
 
 [[params.ananke_socials]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/douglasdrumond"
+url = "https://www.linkedin.com/in/douglaskayama"
 
 [[params.ananke_socials]]
 name = "instagram"
-url = "https://instagram.com/douglasdrumond.tech"
+url = "https://instagram.com/douglaskayama.tech"
 
